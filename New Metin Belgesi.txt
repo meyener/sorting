@@ -1,0 +1,30 @@
+Selection Sort Projesi
+
+22,27,16,2,18,6
+
+1.  2,27,16,22,18,6
+2.  2,6,16,22,18,27
+3.  2,6,16,18,22,27
+
+Big-O gösterimi=O(n)
+
+Average case
+
+Merge Sort Projesi
+
+      16,21,11,8,12,22
+
+1.    16,21,11      8,12,22
+2.	16,21   11   8,12   22
+3.	11,16,21	 8,12,22
+4.	8,11,12,16,21,22
+
+Big-O gösterimi=O(logn)
+
+Binary Search Tree Projesi
+
+7, 5, 1, 8, 3, 6, 0, 9, 4, 2     aradığımız sayı 3
+
+1. 0,1,2,3,4,5,6,7,8,9	min 0 max 9 mid 5 3 solda
+2. 0,1,2,3,4,5	min 0 max 5 mid 2, 3 sağda
+3. 2,3,4,5	min 2 max 5 3 mid
